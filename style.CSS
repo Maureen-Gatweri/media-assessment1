@@ -1,0 +1,79 @@
+.nav1{
+text-align: center;
+}
+.section2{
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: auto;
+}
+.nav3{
+    text-align: center;
+    justify-content: space-between;
+    padding-left: 20%;
+    
+}
+ 
+ 
+.categories{
+    display: flex;
+}
+.line2{
+    display: flex;
+}
+
+.navbar1{
+    text-size-adjust: 10px;
+    
+}
+h5{
+    font-style: oblique;
+    font-size-adjust: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.description{
+    display: flex;
+    margin-left: 50px;
+}
+button{
+    color: grey;
+    width: 100px;
+    text-align: center;
+}
+
+.male{
+    display: flex;
+}
+.row2{
+    display: flex;
+}
+.second{
+    display: flex;
+}
+.shoes{
+    display: flex;
+}
+.conclusion{
+    display: flex;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.patners{
+    display: flex;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+@media screen {max-width- (300px,700px);     
+}
+
+
+
+
+
+
+
+
+
+
+
+
